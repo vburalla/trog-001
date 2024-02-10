@@ -1,0 +1,11 @@
+movies:
+  pricing:
+    - CHILDRENS:
+        - includedDaysInPrice: 2
+        - pricePerExtraDay: 1.5
+    - NEW_RELEASE:
+        - includedDaysInPrice: 0
+        - pricePerExtraDay: 3
+    - REGULAR:
+        - includedDaysInPrice: 3
+        - pricePerExtraDay: 1.5

@@ -1,5 +1,8 @@
 package org.tfoc;
 
+import org.tfoc.models.Customer;
+import org.tfoc.models.Rental;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
